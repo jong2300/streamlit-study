@@ -1,0 +1,9 @@
+streamlit==1.30.0
+langchain==0.1.4
+openai==1.10.0
+faiss-cpu
+python-dotenv==1.0.1
+olefile==0.47
+pdfminer.six==20231228
+tiktoken==0.5.2
+langchain_openai
